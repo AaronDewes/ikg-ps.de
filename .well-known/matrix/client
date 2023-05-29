@@ -1,5 +1,8 @@
 {
   "m.homeserver": {
-    "base_url": "https://chat-server.ikgp.de"
+    "base_url": "https://synapse.ikgp.de"
+  },
+  "org.matrix.msc3575.proxy": {
+      "url": "https://chat-server.ikgp.de"
   }
 }
