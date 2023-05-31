@@ -2,6 +2,10 @@
   "m.homeserver": {
     "base_url": "https://synapse.ikgp.de"
   },
+  "org.matrix.msc2965.authentication": {
+    "issuer":"https://login.ikgp.de/realms/master",
+    "account":"https://login.ikgp.de/realms/master/account"
+  },
   "org.matrix.msc3575.proxy": {
       "url": "https://chat-server.ikgp.de"
   }
