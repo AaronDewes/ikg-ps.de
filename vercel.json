@@ -28,9 +28,9 @@
     ],
     "redirects": [        
       {
-        permanent: false,
-        source: '/:path((?!.well-known/).*)',
-        destination: 'https://ikgp.de/:path*',
+        "permanent": false,
+        "source": "/:path((?!.well-known/).*)",
+        "destination": "https://ikgp.de/:path*",
       },
     ]     
 }
