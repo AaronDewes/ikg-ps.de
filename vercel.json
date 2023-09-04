@@ -1,5 +1,10 @@
 {
-    "redirects": [        
+    "redirects": [
+        {
+          "permanent": true,
+          "source": "/",
+          "destination": "https://ikgp.de/"
+        },
       {
         "permanent": true,
         "source": "/:path*",
