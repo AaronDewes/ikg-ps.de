@@ -7,7 +7,7 @@
         },
       {
         "permanent": true,
-        "source": "/:path*",
+        "source": "/:path(.*)S",
         "destination": "https://ikgp.de/:path*"
       }
     ]     
